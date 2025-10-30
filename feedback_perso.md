@@ -7,11 +7,14 @@
 ---
 
 ## ✅ Fonctionnalités de base
- 
+- [ ] Le programme fonctionne sans erreurs.  
+- [ ] Le programme permet de transcrire et de résumer.
+- [ ] Interface visuel.
+- [ ] Les entrées invalides sont correctement traitées.
 
 **Commentaires :**  
 _(ex. : “Le jeu tourne bien, mais en cas d’entrée invalide il relance directement la manche sans prévenir l’utilisateur.”)_  
-Le jeu fonction,e bien, posséde une interface graphique(couleur, annimation) et propose de rejouer et d'arrêter
+
 ---
 
 ## 💻 Qualité du code
