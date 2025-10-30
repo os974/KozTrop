@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Environnement virtuel
+venv/
+.env/
+.env.*
+
+# Fichiers audio temporaires
+*.wav
+*.mp3
+*.m4a
+temp.*
+
+# Dossiers et fichiers de sortie
+output/
+*.txt  # si tu veux ignorer les transcriptions et résumés générés
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.qodo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Systèmes
+.DS_Store
+Thumbs.db
