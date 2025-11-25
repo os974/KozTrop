@@ -67,7 +67,7 @@ ffmpeg -i tonfichier.mp3 -ar 16000 audio/exemple.wav
 
 ## 🪄 Bonus
 
-Si tu veux une interface simple avec **Streamlit** :
+Interface simple avec **Streamlit** :
 ```bash
 pip install streamlit
 streamlit run app.py
